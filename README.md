@@ -10,6 +10,6 @@
 
 ![Ai-Player 港澳台电视节目在线播放器](images/Screenshot-2024-10-26-121224.png "港澳台电视节目在线播放器")
 
-## 部署到 Vercel
+## 一键部署到 Vercel
 
-本项目可以直接部署到 Vercel，Fork 本项目之后，在根目录依次执行 `npm install` 、 `vercel --prod` 即可。
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/john88188/ai-player)
